@@ -1,0 +1,33 @@
+.profile_img {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+#wrapper {
+  border-top: 1px gray solid;
+  width: 900px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
+
+a:hover {
+  color: black;
+}
+
+h3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+td {
+  padding: 5px 10px;
+}
+
+li {
+  padding: 5px 10px;
+}
